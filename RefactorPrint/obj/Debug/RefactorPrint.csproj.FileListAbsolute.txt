@@ -1,0 +1,7 @@
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\obj\Debug\RefactorPrint.csprojAssemblyReference.cache
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\obj\Debug\RefactorPrint.csproj.CoreCompileInputs.cache
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\bin\Debug\RefactorPrint.exe.config
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\bin\Debug\RefactorPrint.exe
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\bin\Debug\RefactorPrint.pdb
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\obj\Debug\RefactorPrint.exe
+D:\Desktop\RefactorarMasivian\RefactorPrint\RefactorPrint\obj\Debug\RefactorPrint.pdb
